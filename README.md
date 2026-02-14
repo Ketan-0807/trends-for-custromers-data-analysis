@@ -46,3 +46,13 @@ Write here the business logic in sql  script
 5.Open customer_behavior_dashboard.pbix
 
 6.Create interactive dashboard in Power BI
+
+Note :- 
+
+-> YouTube: Amlan Mohanty
+
+-> Link :- https://www.youtube.com/watch?v=5PrZvPeUw60&t=4775s
+
+-> step by step documentation is also provided.
+
+-> Good Explanation.
